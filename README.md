@@ -7,6 +7,4 @@
 - BINI is a PPop Girl Group consisting of 8 members: Aiah, Jhoanna, Mikha, Colet, Jhoanna, Stacey, Maloi, and Gwen.
 ![alt text](https://github.com/user-attachments/assets/8c969af9-3707-422b-9d81-4af08d3c2b3f)
 
-- Kendrick Lamar is an American rapper and is one of the most influential hip-hop artists.
-![alt text](![Pulitzer2018-portraits-kendrick-lamar](https://github.com/user-attachments/assets/fbd63c5d-aba4-4995-a553-c086d237b890)
-)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Csrqur3IfnVp0EtHskjMw?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
