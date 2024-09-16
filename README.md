@@ -5,4 +5,5 @@
 ---
 ## Music Artists:
 - BINI is a PPop Girl Group consisting of 8 members: Aiah, Jhoanna, Mikha, Colet, Jhoanna, Stacey, Maloi, and Gwen.
-![alt text](https://github.com/user-attachments/assets/138a4a5e-59b3-4005-8ebc-97eb78248b99)
+![alt text](https://github.com/user-attachments/assets/8c969af9-3707-422b-9d81-4af08d3c2b3f)
+
