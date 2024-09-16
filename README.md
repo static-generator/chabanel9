@@ -1,2 +1,3 @@
-# chabanel9
-###my favorite hobbies and games.
+# 9 - Chabanel
+
+### Francis Theodore S. Bitara - *Kiko*
