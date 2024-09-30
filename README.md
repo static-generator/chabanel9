@@ -17,7 +17,12 @@
 - I study at Ateneo De Naga Junior High School. 
 - My section is 9-Chabanel.
 
-! ![Ateneo_de_Naga_University_logo](https://github.com/user-attachments/assets/cab170cf-69bd-494e-bdc4-9ee1b721f333)
+![Ateneo_de_Naga_University_logo](https://github.com/user-attachments/assets/cab170cf-69bd-494e-bdc4-9ee1b721f333)
+
+## Contacts
+- Gmail: ftbitara@gbox.adnu.edu.ph
+- Facebook: Kiko Bitara
+
 
 
 
